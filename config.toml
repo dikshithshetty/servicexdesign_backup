@@ -1,0 +1,14 @@
+baseURL = "http://strategyxdesign.co.uk"
+languageCode = "en-us"
+title = "Strategy x Design"
+
+theme = "hugo-kiera"
+
+    [params]
+    subtitle = "Strategic Design Practice"
+    tagline = "Tom Eldridge, designs, builds, and writes"
+    description = "Kiera: A Hugo theme for creative and technical writing."
+    #images = [""] #This is used for opengraph/twitter cards.
+    customCSS = []  #Optional Customised CSS
+    homepageLength = 10
+    google_fonts = ["Spectral"] # Adds additional google fonts
